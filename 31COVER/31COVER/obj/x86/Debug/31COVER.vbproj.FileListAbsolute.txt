@@ -1,0 +1,18 @@
+C:\Users\jungxx\AppData\Local\Temporary Projects\31COVER\obj\x86\Debug\_31COVER.Form1.resources
+C:\Users\jungxx\AppData\Local\Temporary Projects\31COVER\obj\x86\Debug\_31COVER.Resources.resources
+C:\Users\jungxx\AppData\Local\Temporary Projects\31COVER\obj\x86\Debug\31COVER.vbproj.GenerateResource.Cache
+C:\Users\jungxx\AppData\Local\Temporary Projects\31COVER\bin\Debug\31COVER.exe
+C:\Users\jungxx\AppData\Local\Temporary Projects\31COVER\bin\Debug\31COVER.pdb
+C:\Users\jungxx\AppData\Local\Temporary Projects\31COVER\bin\Debug\31COVER.xml
+C:\Users\jungxx\AppData\Local\Temporary Projects\31COVER\obj\x86\Debug\31COVER.exe
+C:\Users\jungxx\AppData\Local\Temporary Projects\31COVER\obj\x86\Debug\31COVER.xml
+C:\Users\jungxx\AppData\Local\Temporary Projects\31COVER\obj\x86\Debug\31COVER.pdb
+G:\Projects\31COVER\31COVER\obj\x86\Debug\31COVER.exe
+G:\Projects\31COVER\31COVER\obj\x86\Debug\31COVER.xml
+G:\Projects\31COVER\31COVER\obj\x86\Debug\31COVER.pdb
+G:\Projects\31COVER\31COVER\bin\Debug\31COVER.exe
+G:\Projects\31COVER\31COVER\bin\Debug\31COVER.pdb
+G:\Projects\31COVER\31COVER\bin\Debug\31COVER.xml
+G:\Projects\31COVER\31COVER\obj\x86\Debug\_31COVER.Form1.resources
+G:\Projects\31COVER\31COVER\obj\x86\Debug\_31COVER.Resources.resources
+G:\Projects\31COVER\31COVER\obj\x86\Debug\31COVER.vbproj.GenerateResource.Cache
